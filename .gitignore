@@ -4,3 +4,4 @@
 .vscode
 your-code/main-Learning.ipynb
 **/*.csv
+**/*mysql_pass.txt
