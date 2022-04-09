@@ -67,6 +67,7 @@ CREATE TABLE IF NOT EXISTS `blockbuster`.`film` (
   `length` INT NULL DEFAULT NULL,
   `replacement_cost` FLOAT NULL DEFAULT NULL,
   `special_features` VARCHAR(250) NULL DEFAULT NULL,
+  `rating` VARCHAR(50) NULL DEFAULT NULL,
   `language_id` INT NULL DEFAULT NULL,
   `category_id` INT NULL DEFAULT NULL,
   PRIMARY KEY (`film_id`),
