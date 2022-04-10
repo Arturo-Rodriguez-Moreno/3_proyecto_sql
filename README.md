@@ -1,25 +1,3 @@
-![sharks_clean.png](images/sharks_clean.png)
-
-
-# Proyecto limpieza de datos
-# Introducción:
-
-En este proyecto se pretende realizar una limpieza exhastiva de un dataset en formato .csv de ataque de tiburones que está bastante mas sucio de los que se suelen utilizar para un posterior análisis, lo que me permitirá realizar diferentes técnicas (wrangling, cleaning, manipulation).
-
-Me podré ciertas condiciones para obligarme a tener que modificar los datos:
-
-- No puedo borrar columnas
-- No puedo borrar mas de 20% de las filas
-
-
-
-## Fuentes de los datos:
-
-Kaggle Global Shark Attacks (https://www.kaggle.com/datasets/teajay/global-shark-attacks) 
-
-## Objetivos:
-
-- Obtener un dataset lo mas limpio posible
 ![blockbuster.jpg](images/blockbuster.jpg)
 
 
